@@ -1,0 +1,6 @@
+# Usage
+
+```sh
+$ noxattr <file> [...]
+```
+
